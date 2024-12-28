@@ -51,7 +51,7 @@ function App() {
             <div className="flex items-center justify-between text-sm text-gray-600">
               <div className="flex items-center gap-2">
                 <MessageSquare className="w-4 h-4" />
-                <span>Powered by Bolt.AI</span>
+                <span>Powered by Nouman</span>
               </div>
               <button
                 onClick={handleEscalate}
